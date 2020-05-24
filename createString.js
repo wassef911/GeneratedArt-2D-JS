@@ -5,7 +5,7 @@ export default async (string, context, width, height) => {
   const { size, position, color, rotation } = string;
   const characters = "↘↙;:..".split("");
 
-  /* const fontUrl = "./SpaceGrotesk-Light.otf";
+  /* const fontUrl = "./assets/SpaceGrotesk-Light.otf";
   const font = new window.FontFace("paceGrotesk-Bold", `url(${fontUrl})`);
   await font.load();
   document.fonts.add(font); */
