@@ -12,6 +12,6 @@ then cd to the folder <br/>
 
 to start the live reload
 
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
+![Screenshot1](https://github.com/wassef911/GeneratedArt-JS/blob/master/assets/screenshot1.png?raw=true)
+![Screenshot2](https://github.com/wassef911/GeneratedArt-JS/blob/master/assets/screenshot2.png?raw=true)
+![Screenshot3](https://github.com/wassef911/GeneratedArt-JS/blob/master/assets/screenshot3.png?raw=true)
